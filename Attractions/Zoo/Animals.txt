@@ -1,2 +1,4 @@
 Inserted a lion.
 Inserted a Hippo.
+Inserted a tiger.
+
